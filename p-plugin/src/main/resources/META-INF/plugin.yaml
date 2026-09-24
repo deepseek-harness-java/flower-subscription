@@ -1,0 +1,6 @@
+id: flower-copilot
+name: AI 鲜花订阅管家
+version: 1.0.0
+author: xfg-studio
+description: AI 鲜花订阅管家，支持套餐查询、花材花语与养护、新建订阅（含要素确认）、订阅查询、配送列表与运营统计。
+entrypoint: cn.xiaofuge.g.plugin.FlowerPlugin
